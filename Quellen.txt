@@ -1,0 +1,7 @@
+YT Tutorial:
+https://www.youtube.com/watch?v=mnTyiUAHuVk&list=PLNEXpqAEOHhNggwr-_BU0f-kAZO8Qnp4x
+
+auf Github:
+https://github.com/angelsix/youtube/tree/develop/C%23%20Beginners/TicTacToe
+
+
